@@ -4,7 +4,13 @@ I am a qualified insurance actuary with proven data science experience working a
 
 ### Professional experience
 
-After graduating from the University of St Andrews in 2015, I spent 1.5 years at an actuarial consultancy before moving to the Bank of England, where I have been working for the last 3.5 years. For more details of my professional experience, please visit my [LinkedIn page](https://www.linkedin.com/in/guybrettrobertson/).
+After graduating from the University of St Andrews in 2015, I spent 1.5 years at an actuarial consultancy before moving to the Bank of England, where I have been working for the last 3.5 years. At the Bank, I have:
+
+- Built a substantial R package as part of my department's actuarial software development team;
+- Conducted deep-dive analysis of multiple FTSE 100 insurer's statistical risk and capital models; and
+- Championed data science good practices, providing training to c. 40 actuaries on data visualisation, version control and deep learning.
+
+For more details of my professional experience, please visit my [LinkedIn page](https://www.linkedin.com/in/guybrettrobertson/).
 
 
 
