@@ -4,7 +4,7 @@ I am a qualified insurance actuary with proven data science experience working a
 
 ### What I've been working on, and what drives me :seedling:
 
-If there's one thing you should take away from this page, it is that I am obsessed with learning. After obtaining my integrated Master's degree in astrophysics, I spent four years training to become an actuary ([What is an actuary?](https://www.actuaries.org.uk/become-actuary/what-actuary)), and now I spend much of my spare time exploring interesting datasets, implementing and developing models (**Python**, **Scikit-Learn**, **Tensorflow**), and learning about innovative new techniques in the field of machine learning.
+If there's one thing you should take away from this page, it is that I am obsessed with learning. After obtaining my integrated Master's degree in astrophysics, I spent four years training to become an actuary ([What is an actuary?](https://www.actuaries.org.uk/become-actuary/what-actuary)), and now I spend much of my spare time exploring interesting datasets, implementing and developing models (**Python**, **Scikit-Learn**, **Tensorflow**), and reading up on innovative new techniques in the field of machine learning.
 
 Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I developed a model capable of determining whether an news article was real or fake with 99% accuracy.
 
