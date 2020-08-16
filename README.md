@@ -12,13 +12,4 @@ If there's one thing you should take away from this page, it is that I am obsess
 
 I believe that true insight comes from the cross-pollination of ideas from different domains, and that is why I have sought breadth as well as depth across a targetted range of scientific, mathematical, and computational fields. As an example, for my Master's thesis, I developed a Monte Carlo simulation (**Fortran**) for an exotic astrophysical phenomenon called the [cosmic ray air shower](https://en.wikipedia.org/wiki/Air_shower_(physics)). This experience gave me a uniquely intuitive understanding of the Monte Carlo techniques that many insurance companies use to model the future.
 
-### Professional experience :chart_with_upwards_trend:
-
-After graduating from the University of St Andrews in 2015, I spent 1.5 years at an actuarial consultancy before moving to the Bank of England, where I have been working for the last 3.5 years. At the Bank, I have:
-
-- Built a substantial **R** package as part of my department's actuarial software development team;
-- Conducted deep-dive analysis of multiple FTSE 100 insurer's statistical risk and capital models;
-- Developed expertise in specialist areas such as [proxy modelling](https://www.actuaries.org.uk/system/files/documents/pdf/proxy-models-working-party-paper-240214.pdf), contributing to [industry publications](https://www.bankofengland.co.uk/prudential-regulation/letter/2019/proxy-modelling-survey-best-observed-practice); and
-- Championed data science good practices, providing training to c. 40 actuaries on data visualisation, version control, deep learning, and more.
-
-For more details of my professional experience, please visit my [LinkedIn page](https://www.linkedin.com/in/guybrettrobertson/).
+For details of my professional experience, please visit my [LinkedIn page](https://www.linkedin.com/in/guybrettrobertson/).
