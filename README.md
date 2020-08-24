@@ -4,7 +4,7 @@ I am a qualified insurance actuary with proven data science experience working a
 
 ### What I've been working on :computer:
 
-Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I developed a model capable of determining whether a credit card transaction was fraudulent with an ROC AUC score of 99.7%.
+Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I developed a model capable of determining whether a credit card transaction was fraudulent with an ROC AUC score of 99.7%. I have also been developing machine learning algorithms from scratch to improve my understand of these methods at a lower level of abstraction.
 
 ### What drives me :seedling:
 
