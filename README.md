@@ -8,8 +8,6 @@ Currently, I am developing my Python and SQL skills. Check out the *autodidactic
 
 ### What drives me :seedling:
 
-If there's one thing you should take away from this page, it is that I am obsessed with learning. After obtaining my integrated Master's degree in astrophysics, I spent four years training to become an actuary ([What is an actuary?](https://www.actuaries.org.uk/become-actuary/what-actuary)), and now I spend much of my spare time exploring interesting datasets, implementing and developing models (**Python**, **Scikit-Learn**, **Tensorflow**), and reading up on innovative new techniques in the field of machine learning.
-
-I believe that true insight comes from the cross-pollination of ideas from different domains, and that is why I have sought breadth as well as depth across a targetted range of scientific, mathematical, and computational fields. As an example, for my Master's thesis, I developed a Monte Carlo simulation (**Fortran**) for an exotic astrophysical phenomenon called the [cosmic ray air shower](https://en.wikipedia.org/wiki/Air_shower_(physics)). This experience gave me a uniquely intuitive understanding of the Monte Carlo techniques that many insurance companies use to model the future.
+If there's one thing you should take away from this page, it is that I am obsessed with learning. After obtaining my integrated Master's degree in astrophysics, I spent four years training to become an actuary ([What is an actuary?](https://www.actuaries.org.uk/become-actuary/what-actuary)), and now I spend much of my spare time exploring interesting datasets, implementing and developing models, and reading up on innovative new techniques in the field of machine learning.
 
 For details of my professional experience, please visit my [LinkedIn page](https://www.linkedin.com/in/guybrettrobertson/).
