@@ -4,7 +4,7 @@ I am a qualified insurance actuary with proven data science experience working a
 
 ### What I've been working on :computer:
 
-Currently, I am developing my Python and SQL skills. Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I developed a model capable of determining whether a news article was real or fake with an accuracy of 99%. I have also been developing machine learning algorithms from scratch to improve my understanding of these methods at a lower level of abstraction.
+Currently, I am developing my Python and SQL skills. Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I used natural language. I have also been developing machine learning algorithms from scratch to improve my understanding of these methods at a lower level of abstraction.
 
 ### What drives me :seedling:
 
