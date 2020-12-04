@@ -8,6 +8,6 @@ Currently, I am developing my Python and SQL skills. Check out the *autodidactic
 
 ### What drives me :seedling:
 
-If there's one thing you should take away from this page, it is that I am obsessed with learning. After obtaining my integrated Master's degree in astrophysics, I spent four years training to become an actuary ([What is an actuary?](https://www.actuaries.org.uk/become-actuary/what-actuary)), and now I spend much of my spare time exploring interesting datasets, implementing and developing models, and reading up on innovative new techniques in the field of machine learning.
+If there's one thing you should take away from this page, it is that I am obsessed with learning. After obtaining my integrated Master's degree in astrophysics, I spent four years training as an actuary ([What is an actuary?](https://www.actuaries.org.uk/become-actuary/what-actuary)), and now I spend much of my spare time exploring interesting datasets, implementing and developing models, and reading up on innovative new techniques in the field of machine learning.
 
 For details of my professional experience, please visit my [LinkedIn page](https://www.linkedin.com/in/guybrettrobertson/).
