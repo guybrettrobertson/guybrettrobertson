@@ -4,7 +4,7 @@ I am a qualified insurance actuary and data scientist working at the Bank of Eng
 
 ### What I've been working on :computer:
 
-Currently, I am working with Python and SQL. Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I developed a model to create a chat bot based on any WhatsApp message history. I have also been developing machine learning algorithms from scratch to improve my understanding of these methods at a lower level of abstraction.
+Currently, I am working primarily with Python. Check out the *autodidactic_sandbox* repo for my self-teaching materials and the *personal_projects* repo for information about the projects I've been working on. Most recently, I developed a model to create a chat bot based on any WhatsApp message history. I have also been developing machine learning algorithms from scratch to improve my understanding of these methods at a lower level of abstraction.
 
 ### What drives me :seedling:
 
