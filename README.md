@@ -1,6 +1,6 @@
 ### Hi, my name is Guy Brett-Robertson :wave:
 
-I am a data science and actuarial software developer and manager currently working at PwC (previously the Bank of England). This is my personal Github workspace. Here, you can find my code and projects on a range of subjects from algorithms to data visualisation and machine learning.
+I am a lead software developer and manager currently working at PwC (previously the Bank of England). This is my personal Github workspace. Here, you can find my code and projects on a range of subjects from algorithms to data visualisation and machine learning.
 
 ### What I've been working on :computer:
 
